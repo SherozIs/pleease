@@ -21,5 +21,5 @@ add_subdirectory("lab4/task5")
 add_subdirectory("lab4/task6")
 add_subdirectory("lab5")
 add_subdirectory("lab6")
-add_subdirectory("lab7")
+#add_subdirectory("lab7")
 # TODO: Добавьте тесты и целевые объекты, если это необходимо.

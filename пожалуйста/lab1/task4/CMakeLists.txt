@@ -4,6 +4,6 @@
 cmake_minimum_required (VERSION 3.8)
 
 # Добавьте источник в исполняемый файл этого проекта.
-add_executable (laboratoryWork_1_task4 "task1.4")
+add_executable (laboratoryWork_1_task4 "task4")
 
 # TODO: Добавьте тесты и целевые объекты, если это необходимо.
